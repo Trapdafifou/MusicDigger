@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Music Digger</title>
-    <link rel="stylesheet" href="CSS/reset.css">
-    <link rel="stylesheet" href="CSS/styleIndex.css">
+    <link rel="stylesheet" href="assets/CSS/reset.css">
+    <link rel="stylesheet" href="assets/CSS/styleIndex.css">
     <script src="jquery.js"> </script>
 </head>
 <body>
@@ -28,10 +28,10 @@ include( 'index/headerIndex.php' );
 <div class="description">
     
     <div class="homeArrow">
-        <img class="fleche" src="images/newfleche.png">
+        <img class="fleche" src="assets/images/newfleche.png">
     </div>
     
-    <img id="homepage" src="images/homepage.png" alt="all your favorite playlists ine one place">
+    <img id="homepage" src="assets/images/homepage.png" alt="all your favorite playlists ine one place">
 </div>
 
 

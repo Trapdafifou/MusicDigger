@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Music Digger</title>
-    <link rel="stylesheet" href="CSS/reset.css">
-    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="assets/CSS/reset.css">
+    <link rel="stylesheet" href="assets/CSS/style.css">
 <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,300,500,700|Montserrat:400,700' rel='stylesheet' type='text/css'></head>
 </head>
 <body>
@@ -19,7 +19,7 @@
 
 </script>
 <header>
-    <a href="http://musicdigger.fr/"><img class="logo" src="images/logo.png"></a>
+    <a href="http://musicdigger.fr/"><img class="logo" src="assets/images/logo.png"></a>
 </header>
 
 <?php

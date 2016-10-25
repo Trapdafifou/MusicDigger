@@ -35,7 +35,7 @@ include('header.php');
         <img class="imgLabel" src="<?= $pages[$cPage]['imgTop'] ?>" alt="Image meilleure playlist <?= $key ?>" title="<?= key ?>">
         
         <div class='reseau'>
-            <a href="<?= $pages[$cPage]['lien'] ?>"><img src="images/soundcloud.png" class="scMarg"></a>
+            <a href="<?= $pages[$cPage]['lien'] ?>"><img src="assets/images/soundcloud.png" class="scMarg"></a>
         </div>
 </div>
 
@@ -112,16 +112,3 @@ $(".slidebar").on("click",function(){
 });
 
 </script>
-<!--<script>
-    $(document).ready(function(){
-        $(".nuit").click(function(){
-            $('.section1').css('background-color','black');
-            $('titreDePage').css('background-color','black');
-        });
-        
-    });
-    $(".nuit").click(function(){
-             $('.section1').css('background-color','white');
-            $('titreDePage').css('background-color','white');
-        });
-</script>-->
